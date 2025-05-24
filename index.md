@@ -338,7 +338,7 @@ header:
     <!-- Project 1 -->
     <div class="project-card">
       <div class="project-header">
-        <h3>Aorta Segmentation System</h3>
+        <h3>Aorta Segmentation and its Geometric Analysis</h3>
         <span class="project-badge">Medical AI</span>
       </div>
       <p class="project-description">
@@ -519,7 +519,7 @@ using Deep Learning Framework"</a>
       </div>
       <p class="publication-abstract">
         Developed CAD system achieving 92.4% accuracy in mammogram classification using 
-        custom CNN architecture with attention mechanisms.
+        custom CNN architecture.
       </p>
     </div>
   </div>
