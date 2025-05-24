@@ -357,7 +357,7 @@ header:
     <div class="project-card">
       <div class="project-header">
         <h3> Breast cancer detection and its classification as Benign or Malignant</h3>
-        <span class="project-badge">Aerospace</span>
+        <span class="project-badge">Medical AI</span>
       </div>
       <p class="project-description">
         Reduced ISRO launch vehicle telemetry analysis time by 45% through 
@@ -368,7 +368,7 @@ header:
         <span>Prophet</span>
         <span>MLOps</span>
       </div>
-      <a href="#" class="project-link">View Details →</a>
+      <a href="https://github.com/priya8695/breast_cancer_classification" class="project-link">View Details →</a>
     </div>
 
 
@@ -376,7 +376,7 @@ header:
     <div class="project-card">
       <div class="project-header">
         <h3>AQI forecasting </h3>
-        <span class="project-badge">Aerospace</span>
+        <span class="project-badge">Time series forecasting</span>
       </div>
       <p class="project-description">
         Developed an advanced LSTM+CNN model with attention mechanism for Air Quality Index prediction across Indian cities. Our model outperforms state-of-the-art approaches in accuracy and robustness, providing reliable predictions to help mitigate pollution exposure.
@@ -398,7 +398,7 @@ header:
     <div class="project-card">
       <div class="project-header">
         <h3> Classifying fake audios  </h3>
-        <span class="project-badge">Aerospace</span>
+        <span class="project-badge">Audio analysis</span>
       </div>
       <p class="project-description">
         Developed a CNN-LSTM hybrid model for detecting AI-generated speech using the ASVspoof2019 dataset. The proposed system achieves state-of-the-art accuracy in classifying audio as 'bonafide' (human) or 'spoof' (AI-generated), combining time-domain analysis with advanced feature extraction. Includes a Streamlit web interface for real-time audio classification.
@@ -576,17 +576,17 @@ using Deep Learning Framework"</a>
     <!-- Entry 3 -->
     <div class="timeline-entry left">
       <div class="timeline-logo-container">
-        <img src="/assets/images/isro.png" alt="ISRO" class="timeline-logo">
+        <img src="/assets/images/leiden.png" alt="Leiden University" class="timeline-logo">
       </div>
       <div class="timeline-content">
-        <div class="timeline-date">2017 - 2022</div>
-        <h3 class="timeline-title">Scientist/Engineer</h3>
-        <p class="timeline-location">ISRO, India</p>
+        <div class="timeline-date">2022 - 2024</div>
+        <h3 class="timeline-title">MSc Computer Science (Specialisation in AI)</h3>
+        <p class="timeline-location">Leiden University</p>
+        
         <div class="timeline-description">
           <ul>
-            <li>Reduced telemetry errors by 30% using MLOps</li>
-            <li>Automated data analysis (45% time reduction)</li>
-            <li>Contributed to Chandrayaan mission analytics</li>
+            <li>Thesis: "Aorta Segmentation & Geometric Analysis"</li>
+            <li>Courses: RL, NLP, Medical Imaging, Evolutionary Algorithms</li>
           </ul>
         </div>
       </div>
@@ -595,17 +595,19 @@ using Deep Learning Framework"</a>
     <!-- Entry 4 -->
     <div class="timeline-entry right">
       <div class="timeline-logo-container">
-        <img src="/assets/images/leiden.png" alt="Leiden University" class="timeline-logo">
+        <img src="/assets/images/isro.png" alt="ISRO" class="timeline-logo">
       </div>
       <div class="timeline-content">
-        <div class="timeline-date">2022 - 2024</div>
-        <h3 class="timeline-title">MSc Computer Science</h3>
-        <p class="timeline-location">AI Specialization, Leiden University</p>
+        <div class="timeline-date">2017 - 2022</div>
+        <h3 class="timeline-title">Scientist/Engineer</h3>
+        <p class="timeline-location">ISRO, India</p>
         <div class="timeline-description">
           <ul>
-            <li>Thesis: "Aorta Segmentation & Geometric Analysis"</li>
-            <li>Courses: RL, NLP, Medical Imaging, Evolutionary Algorithms</li>
-            <li>Developed CAD system for breast mass classification</li>
+            
+            <li>Reduced telemetry errors by 30% using MLOps</li>
+            <li>Automated data analysis (45% time reduction)</li>
+            <li>Contributed to Chandrayaan mission analytics</li>
+         
           </ul>
         </div>
       </div>
@@ -838,6 +840,8 @@ using Deep Learning Framework"</a>
 
 <style>
 /* Minimalist Interests Design */
+
+
 .interests-flow {
   display: flex;
   flex-direction: column;
@@ -875,7 +879,7 @@ using Deep Learning Framework"</a>
 }
 
 .interest-content h3 {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 600;
   color: #2c3e50;
   margin-bottom: 0.5rem;
@@ -883,7 +887,7 @@ using Deep Learning Framework"</a>
 }
 
 .interest-content p {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Crimson Pro', serif;
   font-weight: 400;
   color: #7f8c8d;
   line-height: 1.7;
