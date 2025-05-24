@@ -364,9 +364,9 @@ header:
         automated anomaly detection system using time-series forecasting.
       </p>
       <div class="project-tech">
-        <span>LSTM</span>
-        <span>Prophet</span>
-        <span>MLOps</span>
+        <span>Keras</span>
+        <span>Theano</span>
+        <span>RCNN</span>
       </div>
       <a href="https://github.com/priya8695/breast_cancer_classification" class="project-link">View Details →</a>
     </div>
