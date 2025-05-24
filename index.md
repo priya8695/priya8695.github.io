@@ -360,8 +360,9 @@ header:
         <span class="project-badge">Medical AI</span>
       </div>
       <p class="project-description">
-        Reduced ISRO launch vehicle telemetry analysis time by 45% through 
-        automated anomaly detection system using time-series forecasting.
+        Designed an automated Computer-Aided Detection (CAD) system for breast mass classification using deep learning techniques. The system assists radiologists in early breast cancer detection through three key functions: suspicious region identification, mass/no-mass detection, and benign/malignant classification.
+
+
       </p>
       <div class="project-tech">
         <span>Keras</span>
